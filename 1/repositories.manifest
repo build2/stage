@@ -1,0 +1,39 @@
+# stage.build2.org
+#
+: 1
+url: https://stage.build2.org
+email: users@build2.org
+summary: build2 staging package repository
+description: \
+This repository contains build2 toolchain packages that are being staged for
+preliminary testing. It is primarily used for the development of the build2
+toolchain itself. Packages found here are always unstable and often outright
+broken.
+
+REPOSITORY POLICIES
+
+This section is transient and volatile; packages can be added or removed at
+any time and no history of these changes is kept.
+\
+certificate: \
+-----BEGIN CERTIFICATE-----
+MIIDRjCCAi6gAwIBAgIJANj/A0OU6MD9MA0GCSqGSIb3DQEBCwUAMDsxFzAVBgNV
+BAoMDkNvZGUgU3ludGhlc2lzMSAwHgYDVQQDDBduYW1lOioqc3RhZ2UuYnVpbGQy
+Lm9yZzAeFw0xNzA1MDgxMjMxMTBaFw0yMjA1MDcxMjMxMTBaMDsxFzAVBgNVBAoM
+DkNvZGUgU3ludGhlc2lzMSAwHgYDVQQDDBduYW1lOioqc3RhZ2UuYnVpbGQyLm9y
+ZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOpc5+FMc6o3TRAOn0V4
+w57DI5IK6Z9KSG0iVgtZDO7ZHitduCHi7tk7onY6SW6WxhdIS7PdN60Pu4BuI7kg
+O2UPRm6H6GGOFA2exsyRXFxe01UfX33xnDua5oqmZMaIBS/tGWsCaXpM/5L6isRb
+Gtt0CT9s8OQr8vIV7mwhJdbhnjqixrhPgfvwKiyUIa3gwuiKhU+PpXZvEsrVA/eL
+Cu5E/bXRW3AWjO/HG78TLFDIzo0PclPtT4XYjIFZaoEQvVRWxaVAAoprPz0PdgZE
+Tktl/8onWlnK54/pbN6ph37MeCai7bUQSEsm5J9s1Rb9eFxm4kong8m+hybb23AV
+rIUCAwEAAaNNMEswDgYDVR0PAQH/BAQDAgeAMBYGA1UdJQEB/wQMMAoGCCsGAQUF
+BwMDMCEGA1UdEQQaMBiBFnN0YWdlLWFkbWluQGJ1aWxkMi5vcmcwDQYJKoZIhvcN
+AQELBQADggEBAJBlHVBvXWSARUptRsFECkf/0OAK4w2/8Q1TZp0gmh76b7SUxu4M
+CKtdUTgbz9cUiO0jAcYOMhcsvTlWO+e2c0iZDTgugnj4RqN/JfmWfiENXR2NMikH
+Gc4QaAs8k1RlLejckENlGzrexjnJ96sr0TpiuQ0sKOOyfh9LecCJ4ogT5wNc5CE+
+UgRJ6MqvAOsQJJR3abmIxogARIvWma/wxdJ8WNRwqOlTgAZOJlMkK622mmxOM1/U
+qo1IUsHT6ThG8UcOD3NqOiRuwxG4wf7d1Hyux4osnhFOx/cVdh08UYOIrcjJOH2M
+xF++olVJyMCy2NirRrKNL5m4Gy+BJHzeLis=
+-----END CERTIFICATE-----
+\
