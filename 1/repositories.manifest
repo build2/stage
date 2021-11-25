@@ -4,7 +4,7 @@
 url: https://stage.build2.org
 email: users@build2.org
 summary: build2 staging package repository
-description: \
+description:\
 This repository contains build2 toolchain packages that are being staged for
 preliminary testing. It is primarily used for the development of the build2
 toolchain itself. Packages found here are always unstable and often outright
@@ -15,7 +15,7 @@ REPOSITORY POLICIES
 This section is transient and volatile; packages can be added or removed at
 any time and no history of these changes is kept.
 \
-certificate: \
+certificate:\
 -----BEGIN CERTIFICATE-----
 MIIDNDCCAhygAwIBAgIJAOcDp4evE+zJMA0GCSqGSIb3DQEBCwUAMDUxFzAVBgNV
 BAoMDkNvZGUgU3ludGhlc2lzMRowGAYDVQQDDBFuYW1lOioqYnVpbGQyLm9yZzAe
