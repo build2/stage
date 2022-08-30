@@ -1,3 +1,3 @@
-This is a git repository of the build2 staging package repository. Note that
-the build2 staging is transient and volatile and package additions/removals
-are not tracked in this git repository.
+This is a git repository of the stage.build2.org package repository. Note that
+stage.build2.org is transient and volatile and package additions/removals are
+not tracked in this git repository.
